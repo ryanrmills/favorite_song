@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(219, 219, 219);
+}
+
+header {
+    background-color: bisque;
+}
+
+.album-and-producer {
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+}
